@@ -1,1 +1,1 @@
-This is a test git repository. Nothing to see here
+This is a test git repository. Nothing to see here.
